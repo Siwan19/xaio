@@ -1,10 +1,9 @@
-basic.showString("BOoFRere")
+basic.showString("Hello!")
 basic.pause(500)
-basic.showNumber(10256)
+basic.showNumber(56)
 basic.pause(500)
-basic.showArrow(ArrowNames.NorthEast)
+basic.showIcon(IconNames.Heart)
 basic.pause(500)
-basic.showIcon(IconNames.Happy)
 basic.forever(function () {
 	
 })
